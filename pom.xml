@@ -26,6 +26,8 @@
         <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
         <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
         <maven-surefire-plugin.version>3.5.3</maven-surefire-plugin.version>
+
+        <aliyun-dm.version>1.0.45</aliyun-dm.version>
     </properties>
 
     <dependencyManagement>
@@ -41,6 +43,14 @@
                 <groupId>com.xmy</groupId>
                 <artifactId>common</artifactId>
                 <version>${project.version}</version>
+            </dependency>
+
+            <!-- ===== 阿里云 ===== -->
+            <!-- ===== 邮件发送 ===== -->
+            <dependency>
+                <groupId>com.aliyun</groupId>
+                <artifactId>alibabacloud-dm20151123</artifactId>
+                <version>${aliyun-dm.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
