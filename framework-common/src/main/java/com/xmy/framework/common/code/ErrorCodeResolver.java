@@ -1,6 +1,6 @@
-package com.xmy.common.code;
+package com.xmy.framework.common.code;
 
-import com.xmy.common.config.ServiceProperties;
+import com.xmy.framework.common.config.ServiceProperties;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.springframework.util.StringUtils;

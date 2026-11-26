@@ -1,8 +1,8 @@
-package com.xmy.common.exception;
+package com.xmy.framework.common.exception;
 
-import com.xmy.common.code.CommonErrorCode;
-import com.xmy.common.code.ErrorCodeResolver;
-import com.xmy.common.model.Response;
+import com.xmy.framework.common.code.CommonErrorCode;
+import com.xmy.framework.common.code.ErrorCodeResolver;
+import com.xmy.framework.common.model.Response;
 import jakarta.validation.ConstraintViolationException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

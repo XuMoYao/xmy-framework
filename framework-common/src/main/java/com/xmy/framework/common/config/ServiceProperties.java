@@ -1,4 +1,4 @@
-package com.xmy.common.config;
+package com.xmy.framework.common.config;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;

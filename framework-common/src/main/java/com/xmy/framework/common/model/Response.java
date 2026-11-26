@@ -1,4 +1,4 @@
-package com.xmy.common.model;
+package com.xmy.framework.common.model;
 
 import lombok.Data;
 

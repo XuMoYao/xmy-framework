@@ -1,6 +1,0 @@
-
-aliyun:
-  # 阿里云邮件配置
-  email:
-    # 发件人邮箱
-    account-name: xmy@xumoyao.space

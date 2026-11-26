@@ -1,7 +1,7 @@
-package com.xmy.common.config;
+package com.xmy.framework.common.config;
 
-import com.xmy.common.code.ErrorCodeResolver;
-import com.xmy.common.exception.GlobalExceptionHandler;
+import com.xmy.framework.common.code.ErrorCodeResolver;
+import com.xmy.framework.common.exception.GlobalExceptionHandler;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

@@ -1,6 +1,6 @@
-package com.xmy.common.exception;
+package com.xmy.framework.common.exception;
 
-import com.xmy.common.code.ErrorCode;
+import com.xmy.framework.common.code.ErrorCode;
 import lombok.Getter;
 
 /**

@@ -1,4 +1,4 @@
-package com.xmy.common.code;
+package com.xmy.framework.common.code;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

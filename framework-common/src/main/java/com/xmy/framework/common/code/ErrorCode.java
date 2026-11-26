@@ -1,4 +1,4 @@
-package com.xmy.common.code;
+package com.xmy.framework.common.code;
 
 /**
  * 错误码规范：最终对外呈现为「服务名缩写 + 英文点 + 数字编码」，例如 USER.0001。
