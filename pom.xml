@@ -13,6 +13,7 @@
 
     <modules>
         <module>framework-common</module>
+        <module>framework-starter</module>
     </modules>
 
     <properties>
